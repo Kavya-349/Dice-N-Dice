@@ -1,0 +1,34 @@
+#copy_right_footer {
+    bottom: 0;
+    width: 100%;;
+    line-height: 3;
+    background-color: rgb(192, 188, 188);
+    position: fixed;
+    font-size: 18px;
+}
+
+body {
+    background-color: lavenderblush;
+}
+
+#heading {
+    width: 100%;
+    background-color: lightpink;
+    top: 0;
+    padding: 3px;
+    margin-bottom: 2px;
+    font-size: 35px;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.dice1 , .dice2 {
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+.dice2 {
+    margin-left: 20px;
+}
